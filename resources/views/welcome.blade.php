@@ -1,4 +1,4 @@
-{{-- Archico Sembiring - 11S21011 --}}
+{{-- Archico Sembiring --}}
 
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
